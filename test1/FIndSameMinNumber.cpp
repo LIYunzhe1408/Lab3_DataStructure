@@ -1,4 +1,4 @@
-#include "../FindSameMinNumber.h"
+#include "FindSameMinNumber.h"
 
 void Input(int *array, int arrayNum)
 {
